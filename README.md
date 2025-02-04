@@ -1,1 +1,2 @@
-# devatbosch.github.io
+# Hi, thanks for checking in...
+# This repo hosts the assets for my online portfolio  
